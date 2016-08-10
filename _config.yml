@@ -1,0 +1,14 @@
+layout_spectrum: 0.015297828475013375
+typography_spectrum: 0.743802894372493
+color:
+  brandStrength: 0.5320041049271822
+  lightness: 0.12280572415329516
+  saturation: 0.2796764145605266
+  rhythmicContrast: 0.35923314676620066
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: music maniac
