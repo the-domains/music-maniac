@@ -1,16 +1,16 @@
-typography_spectrum: 0.743802894372493
+typography_spectrum: 0.571295588510111
 color:
-  brandStrength: 0.5320041049271822
-  lightness: 0.12280572415329516
-  saturation: 0.2796764145605266
-  rhythmicContrast: 0.35923314676620066
+  brandStrength: 0.3587106328923255
+  lightness: 0.5833184458315372
+  saturation: 0.23186972714029253
+  rhythmicContrast: 0.5475945316720754
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.015297828475013375
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+layout_spectrum: 0.06148415943607688
 name: music maniac
 title: Karl-Erik Enkelmann
 description: bassist and producer
