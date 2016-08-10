@@ -1,4 +1,3 @@
-layout_spectrum: 0.015297828475013375
 typography_spectrum: 0.743802894372493
 color:
   brandStrength: 0.5320041049271822
@@ -6,9 +5,11 @@ color:
   saturation: 0.2796764145605266
   rhythmicContrast: 0.35923314676620066
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.015297828475013375
 name: music maniac
+title: Karl-Erik Enkelmann
