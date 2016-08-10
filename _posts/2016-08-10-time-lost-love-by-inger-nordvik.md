@@ -1,18 +1,16 @@
 ---
+datePublished: '2016-08-10T23:59:50.794Z'
+sourcePath: _posts/2016-08-10-time-lost-love-by-inger-nordvik.md
+isBasedOnUrl: 'https://soundcloud.com/ingernordvik/sets/time-lost-love'
+keywords: []
+related: []
 author:
   - name: Inger Nordvik
     url: 'http://soundcloud.com/ingernordvik'
     avatar: {}
-related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: >-
-  Rehearsal room recordings Inger Nordvik - Piano/vocals Karl Erik Enkelmann -
-  Bass Dag Magnus Narvesen - Drums
+via: {}
+dateModified: '2016-08-10T23:59:49.785Z'
+title: 'Time, Lost, Love by Inger Nordvik'
 app_links:
   - type: ios
     namespace: ai
@@ -50,18 +48,20 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/ingernordvik/sets/time-lost-love'
-title: 'Time, Lost, Love by Inger Nordvik'
-datePublished: '2016-08-10T23:49:26.346Z'
-dateModified: '2016-08-10T23:49:11.353Z'
-via: {}
+publisher:
+  url: 'http://soundcloud.com'
+  name: SoundCloud
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+  domain: soundcloud.com
+description: >-
+  Rehearsal room recordings Inger Nordvik - Piano/vocals Karl Erik Enkelmann -
+  Bass Dag Magnus Narvesen - Drums
 starred: false
-sourcePath: _posts/2016-08-10-time-lost-love-by-inger-nordvik.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: AudioObject
 _context: 'http://schema.org'
+_type: AudioObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fplaylists%252F240016739%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fingernordvik%2Fsets%2Ftime-lost-love&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000170802346-f05kvr-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
