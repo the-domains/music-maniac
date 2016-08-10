@@ -4,7 +4,7 @@
         <description><![CDATA[Karl-Erik Enkelmann]]></description>
         <link>https://thegrid.ai/music-maniac/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 23:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 23:30:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/music-maniac/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bass Player]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/music-maniac/961dc14b-93bd-4e41-aa92-6a506bddf9ba/index.html</link>
             <guid isPermaLink="false">961dc14b-93bd-4e41-aa92-6a506bddf9ba</guid>
             <pubDate>Wed, 10 Aug 2016 23:18:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Soundcloud Profile]]></title>
+            <description><![CDATA[<article><h1>My Soundcloud Profile</h1><p>You can hear some of the music that I have a part in making here.</p></article>]]></description>
+            <link>https://soundcloud.com/kalleenkelmann</link>
+            <guid isPermaLink="false">770e625b-0a8d-4af5-bbc8-87c623ae34c4</guid>
+            <pubDate>Wed, 10 Aug 2016 23:30:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Producer]]></title>
