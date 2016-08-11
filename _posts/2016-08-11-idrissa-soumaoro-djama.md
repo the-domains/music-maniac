@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-11T13:22:17.881Z'
+datePublished: '2016-08-11T13:38:10.347Z'
+sourcePath: _posts/2016-08-11-idrissa-soumaoro-djama.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=7vKbdM8lexk'
 keywords:
   - idrissa
@@ -13,12 +14,9 @@ keywords:
   - ancien
   - imprudent
 related: []
-author:
-  - name: WallakAt
-    url: 'https://www.youtube.com/user/WallakAt'
-    avatar: {}
+author: []
 via: {}
-dateModified: '2016-08-11T13:21:16.337Z'
+dateModified: '2016-08-11T13:38:09.873Z'
 title: Idrissa Soumaoro - Djama
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=7vKbdM8lexk&feature=applinks'
@@ -65,7 +63,6 @@ publisher:
 description: 'From the 1978 LP "Le Tioko-Tioko", featuring the young Amadou & Mariam'
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-11-idrissa-soumaoro-djama.md
 inFeed: true
 hasPage: false
 inNav: false
