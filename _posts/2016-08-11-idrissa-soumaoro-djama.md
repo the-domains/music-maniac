@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T13:38:10.347Z'
+datePublished: '2016-08-11T13:55:44.100Z'
 sourcePath: _posts/2016-08-11-idrissa-soumaoro-djama.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=7vKbdM8lexk'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-11T13:38:09.873Z'
+dateModified: '2016-08-11T13:55:43.664Z'
 title: Idrissa Soumaoro - Djama
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=7vKbdM8lexk&feature=applinks'
@@ -60,7 +60,9 @@ publisher:
   name: YouTube
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
-description: 'From the 1978 LP "Le Tioko-Tioko", featuring the young Amadou & Mariam'
+description: >-
+  From the 1978 LP "Le Tioko-Tioko", featuring the young Amadou & Mariam. #mali
+  #africa
 inLanguage: en
 starred: false
 inFeed: true
