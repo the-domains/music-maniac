@@ -1,16 +1,16 @@
-typography_spectrum: 0.37181805074214935
+typography_spectrum: 0.5341686983592808
 color:
-  brandStrength: 0.7970511943567544
-  lightness: 0.7848055888898671
-  saturation: 0.2587957202922553
-  rhythmicContrast: 0.1827165586873889
+  brandStrength: 0.04890386248007417
+  lightness: 0.6185295660980046
+  saturation: 0.8391693285666406
+  rhythmicContrast: 0.17274521221406758
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.16823980421759188
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
+layout_spectrum: 0.2335328934714198
 name: music maniac
 navigation:
   - name: About
