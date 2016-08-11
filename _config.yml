@@ -12,5 +12,9 @@ color:
     - '#04756F'
 layout_spectrum: 0.06148415943607688
 name: music maniac
+navigation:
+  - name: About me
+    id: 961dc14b-93bd-4e41-aa92-6a506bddf9ba
+    type: content
 title: 'The music I make, the music I love'
 description: ''
