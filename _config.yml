@@ -1,20 +1,23 @@
-typography_spectrum: 0.6672810642048717
+typography_spectrum: 0.571295588510111
 color:
-  brandStrength: 0.7222817428410053
-  lightness: 0.7013598880730569
-  saturation: 0.6290039520245045
-  rhythmicContrast: 0.02334112417884171
+  brandStrength: 0.3587106328923255
+  lightness: 0.5833184458315372
+  saturation: 0.23186972714029253
+  rhythmicContrast: 0.5475945316720754
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
-layout_spectrum: 0.9701139437966049
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+layout_spectrum: 0.06148415943607688
 name: music maniac
 navigation:
   - name: About me
     id: 961dc14b-93bd-4e41-aa92-6a506bddf9ba
+    type: content
+  - name: Music
+    id: f8c56de8-5441-4531-a76b-ec24fab17373
     type: content
 title: 'The music I make, the music I love'
 description: ''
