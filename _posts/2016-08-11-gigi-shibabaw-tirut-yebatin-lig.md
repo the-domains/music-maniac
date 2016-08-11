@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T13:37:49.983Z'
+datePublished: '2016-08-11T13:53:01.184Z'
 sourcePath: _posts/2016-08-11-gigi-shibabaw-tirut-yebatin-lig.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=zlQVtHZ9we4'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-11T13:37:49.524Z'
+dateModified: '2016-08-11T13:53:00.676Z'
 title: Gigi Shibabaw - Tirut Yebatin Lig
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=zlQVtHZ9we4&feature=applinks'
@@ -60,7 +60,7 @@ publisher:
   name: YouTube
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
-description: '(Traditional Ethiopian love song), solo voice'
+description: '(Traditional #Ethiopian love song), #solo-voice #africa '
 inLanguage: en
 starred: false
 inFeed: true
