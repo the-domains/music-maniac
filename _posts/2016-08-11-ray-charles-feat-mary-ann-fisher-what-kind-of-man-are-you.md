@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-11T13:22:17.884Z'
+datePublished: '2016-08-11T13:55:01.687Z'
+sourcePath: _posts/2016-08-11-ray-charles-feat-mary-ann-fisher-what-kind-of-man-are-you.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=rYM2tARYm90'
 keywords:
   - duration
@@ -15,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-11T13:22:03.307Z'
+dateModified: '2016-08-11T13:55:01.040Z'
 title: Ray Charles feat. Mary Ann Fisher - What kind of man are you
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=rYM2tARYm90&feature=applinks'
@@ -59,10 +60,9 @@ publisher:
   name: YouTube
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
-description: The genius doing his thing.
+description: 'The genius doing his thing. #soul #Rhythm&Blues #jazz '
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-11-ray-charles-feat-mary-ann-fisher-what-kind-of-man-are-you.md
 inFeed: true
 hasPage: false
 inNav: false
