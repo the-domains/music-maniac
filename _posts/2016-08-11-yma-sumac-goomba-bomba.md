@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T13:37:40.583Z'
+datePublished: '2016-08-11T13:54:01.985Z'
 sourcePath: _posts/2016-08-11-yma-sumac-goomba-bomba.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=YjxbHs7tB0s'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-11T13:37:39.922Z'
+dateModified: '2016-08-11T13:54:01.374Z'
 title: Yma Sumac - Goomba Bomba
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=YjxbHs7tB0s&feature=applinks'
@@ -61,7 +61,7 @@ publisher:
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
 description: >-
-  Yma Sumac is one of the most remarkable singers I've ever heard, here's a fun
+  Yma Sumac is one of the most remarkable singers I've ever heard, here's a #fun
   arrangement from 1954.
 inLanguage: en
 starred: false
