@@ -1,4 +1,4 @@
-typography_spectrum: 0.571295588510111
+typography_spectrum: 0.5257368222810328
 color:
   brandStrength: 0.3587106328923255
   lightness: 0.5833184458315372
@@ -10,7 +10,7 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
-layout_spectrum: 0.06148415943607688
+layout_spectrum: 0.29907656623981893
 name: music maniac
 navigation:
   - name: About me
