@@ -1,7 +1,6 @@
 ---
-datePublished: '2016-08-10T23:59:50.794Z'
+datePublished: '2016-08-11T00:42:05.724Z'
 sourcePath: _posts/2016-08-10-time-lost-love-by-inger-nordvik.md
-isBasedOnUrl: 'https://soundcloud.com/ingernordvik/sets/time-lost-love'
 keywords: []
 related: []
 author:
@@ -9,7 +8,7 @@ author:
     url: 'http://soundcloud.com/ingernordvik'
     avatar: {}
 via: {}
-dateModified: '2016-08-10T23:59:49.785Z'
+dateModified: '2016-08-11T00:42:05.000Z'
 title: 'Time, Lost, Love by Inger Nordvik'
 app_links:
   - type: ios
@@ -56,10 +55,9 @@ publisher:
 description: >-
   Rehearsal room recordings Inger Nordvik - Piano/vocals Karl Erik Enkelmann -
   Bass Dag Magnus Narvesen - Drums
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: time-lost-love-by-inger-nordvik/index.html
 _context: 'http://schema.org'
 _type: AudioObject
 
