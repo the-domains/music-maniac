@@ -19,5 +19,8 @@ navigation:
   - name: Music
     id: f8c56de8-5441-4531-a76b-ec24fab17373
     type: content
+  - name: Music
+    id: 75292018-991c-48d8-a122-bf46117c76d2
+    type: content
 title: 'The music I make, the music I love'
 description: ''
