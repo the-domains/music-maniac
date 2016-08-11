@@ -24,16 +24,14 @@ description: >-
   Funeral Song
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://alrightgandhi.bandcamp.com/album/little-traveller'
 title: 'Little Traveller, by Alright Gandhi'
-datePublished: '2016-08-11T00:08:20.998Z'
-dateModified: '2016-08-11T00:08:10.554Z'
+datePublished: '2016-08-11T00:41:05.115Z'
+dateModified: '2016-08-11T00:41:04.511Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-11-little-traveller-by-alright-gandhi.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: little-traveller-by-alright-gandhi/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
