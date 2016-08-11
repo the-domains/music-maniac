@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-11T13:25:58.971Z'
+datePublished: '2016-08-11T13:37:40.583Z'
+sourcePath: _posts/2016-08-11-yma-sumac-goomba-bomba.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=YjxbHs7tB0s'
 keywords:
   - sumac
@@ -13,12 +14,9 @@ keywords:
   - '1954'
   - molina
 related: []
-author:
-  - name: Lomejor712
-    url: 'https://www.youtube.com/user/Lomejor712'
-    avatar: {}
+author: []
 via: {}
-dateModified: '2016-08-11T13:25:53.464Z'
+dateModified: '2016-08-11T13:37:39.922Z'
 title: Yma Sumac - Goomba Bomba
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=YjxbHs7tB0s&feature=applinks'
@@ -67,7 +65,6 @@ description: >-
   arrangement from 1954.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-11-yma-sumac-goomba-bomba.md
 inFeed: true
 hasPage: false
 inNav: false
