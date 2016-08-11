@@ -1,4 +1,4 @@
-typography_spectrum: 0.5257368222810328
+typography_spectrum: 0.571295588510111
 color:
   brandStrength: 0.3587106328923255
   lightness: 0.5833184458315372
@@ -10,17 +10,7 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
-layout_spectrum: 0.29907656623981893
+layout_spectrum: 0.06148415943607688
 name: music maniac
-navigation:
-  - name: About me
-    id: 961dc14b-93bd-4e41-aa92-6a506bddf9ba
-    type: content
-  - name: Music
-    id: f8c56de8-5441-4531-a76b-ec24fab17373
-    type: content
-  - name: Music
-    id: 75292018-991c-48d8-a122-bf46117c76d2
-    type: content
 title: 'The music I make, the music I love'
 description: ''
