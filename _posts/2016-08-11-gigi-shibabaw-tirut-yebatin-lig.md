@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-11T13:22:17.879Z'
+datePublished: '2016-08-11T13:37:49.983Z'
+sourcePath: _posts/2016-08-11-gigi-shibabaw-tirut-yebatin-lig.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=zlQVtHZ9we4'
 keywords:
   - duration
@@ -13,12 +14,9 @@ keywords:
   - video
   - lakew
 related: []
-author:
-  - name: salvater
-    url: 'https://www.youtube.com/user/salvater'
-    avatar: {}
+author: []
 via: {}
-dateModified: '2016-08-11T13:20:19.029Z'
+dateModified: '2016-08-11T13:37:49.524Z'
 title: Gigi Shibabaw - Tirut Yebatin Lig
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=zlQVtHZ9we4&feature=applinks'
@@ -65,7 +63,6 @@ publisher:
 description: '(Traditional Ethiopian love song), solo voice'
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-11-gigi-shibabaw-tirut-yebatin-lig.md
 inFeed: true
 hasPage: false
 inNav: false
